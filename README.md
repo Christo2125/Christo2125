@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 📫 How to reach me **kiranchristo2125@gmail.com**
+- 📫 How to reach me **kiranchristo2125s@gmail.com**
 
 - 📄 Know about my experiences [1 year Media Analyst](1 year Media Analyst)
 
