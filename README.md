@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [1 year Media Analyst](1 year Media Analyst)
 
-- great knowledge on web development. javascript developer
+- great knowledge on web development - javascript developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
