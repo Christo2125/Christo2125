@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on **NineStars Information Technology**
 
-- 🌱 I’m currently learning **React JS**
-
 - 📫 How to reach me **kiranchristo2125s@gmail.com**
 
-- 📄 Know about my experiences [1 year Media Analyst](1 year Media Analyst)
+- BE-Computer Science Engineer
 
 - great knowledge on web development - javascript developer
 
