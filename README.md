@@ -45,7 +45,15 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=christo2125&show_icons=true&locale=en" alt="christo2125" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=christo2125&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=christo2125&theme=default" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=christo2125&theme=github" alt="Contribution Graph" />
 </p>
 
 <p>
