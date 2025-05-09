@@ -49,8 +49,9 @@
 </p>
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=christo2125&theme=default" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christo2125&theme=default" alt="GitHub Streak" />
 </p>
+
 
 <p>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=christo2125&theme=github" alt="Contribution Graph" />
