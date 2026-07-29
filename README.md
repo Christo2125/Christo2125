@@ -23,7 +23,7 @@ Building scalable SaaS applications with modern React technologies.
 - 🔌 Integrating **REST APIs** & **FastAPI** services
 - 📊 Building dashboards, data tables, filters, pagination & dynamic forms
 - ⚡ Performance-focused with Lazy Loading & Rendering Optimization
-- 🌱 Currently exploring advanced React ecosystem and scalable frontend architecture
+- 🌱 Currently exploring next js ecosystem and tanstack.
 - 📫 **Email:** kiranchristo2125s@gmail.com
 
 ---
