@@ -42,7 +42,7 @@
 
 ---
 
- <h3 align="left">📊 GitHub Stats:</h3>
+ 
 
 <!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=christo2125&show_icons=true&locale=en" alt="GitHub Stats" />
